@@ -70,5 +70,5 @@ Consultas analíticas para monitoreo de exposición por segmento bancario, conce
 ## 📁 Estructura y Gobierno de Datos
 
 * [`docs/diccionario_datos_y_linaje.md`](doc/diccionario_datos_y_linaje.md): Linaje completo de tablas Delta Lake, tipos de datos, dominios y reglas de validación.
-* [`src/`](script/): Pipelines modulares en PySpark y scikit-learn.
+* [`script/`](script/): Pipelines modulares en PySpark y scikit-learn.
 * [`sql/`](sql/): Vistas analíticas en Spark SQL.
